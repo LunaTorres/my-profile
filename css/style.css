@@ -1,0 +1,61 @@
+.font{
+    background:url("../images/IMG_3507.jpg");
+}
+.card-white{
+    background:#a6c7e6;
+    padding: 50px;
+    margin: 110px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 4px;
+}
+h1
+.subtitle{
+    font-weight: 100;
+    background-color:rgb(0, 153, 204);
+    color:White;
+    font-family: Cooper Black;
+    font-size: 30px;
+}
+.img {
+    border-radius: 50%;
+}
+
+#photo{
+    width:400px;
+    height: 400px;
+    border-radius: 50%
+}
+h2{
+    font-weight: 100;
+    background-color:rgb(0, 153, 204);
+    color:White;
+    font-family: Cooper Black;
+    font-size: 30px;
+    text-align: center;
+}
+h1{
+    margin-left: 400px;
+    color: #fff;
+}
+.socialnetwork {
+    width: 14%;
+    height: 25px;
+    list-style: none;
+    margin: 0 auto;
+    margin-left: 65px;
+}
+.menu-link {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.menu1 {
+    display: flex;
+    text-align: center;
+}
+.network{
+    width: 50px;
+    height: 50px;
+}
